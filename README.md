@@ -1,2 +1,2 @@
 # Crosswords
-Accessible Crossword PuzzleStatis Website
+Accessible Crossword Puzzles - Static Website
