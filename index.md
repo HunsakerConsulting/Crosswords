@@ -1,4 +1,8 @@
+# Accessible Crossword Puzzles
 
+## New York Times
+
+### 1996
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3196.puz" target="_blank"> December 31, 1996</a>
 
@@ -142,7 +146,7 @@
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Oct2396.puz" target="_blank"> Oct 23, 1996</a>
 
-
+### 1997
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3197.puz" target="_blank"> December 31, 1997 </a>
 
@@ -925,6 +929,8 @@
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan0297.puz" target="_blank"> Jan 02, 1997 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan0197.puz" target="_blank"> Jan 01, 1997 </a>
+
+### 1998
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3198.puz" target="_blank"> December 31, 1998 </a>
 
@@ -1718,7 +1724,7 @@
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/aol0198.puz" target="_blank"> Bonus</a>
 
-<tr><td colspan=5>1999
+### 1999
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3199.puz" target="_blank"> December 31, 1999 </a>
 
@@ -2522,6 +2528,8 @@
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/aol0199.puz" target="_blank"> Bonus</a>
 
+### 2000
+
 <tr><td colspan=5>2000
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3100.puz" target="_blank"> Decemberember 31, 2000 </a>
@@ -3314,6 +3322,8 @@
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan00_sp.puz" target="_blank"> Bonus </a>
 
+### 2001
+
 <tr><td colspan=5>2001
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0101.puz" target="_blank"> Decemberember 01, 2001 </a>
@@ -4008,7 +4018,7 @@
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec02_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2002
+### 2002
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0102.puz" target="_blank"> Decemberember 01, 2002 </a>
 
@@ -4756,7 +4766,7 @@
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec03_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2003
+### 2003
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0103.puz" target="_blank"> Decemberember 01, 2003 </a>
 
@@ -5438,7 +5448,7 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec04_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2004
+### 2004
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0104.puz" target="_blank"> Decemberember 01, 2004 </a>
 
@@ -6202,7 +6212,7 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 <a href="http://crossword.aphtech.org/?openWithUrl=https://query.nytimes.com/premium/xword/Dec05_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2005
+### 2005
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0105.puz" target="_blank"> Decemberember 01, 2005 </a>
 
@@ -6970,7 +6980,7 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec06_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2006
+### 2006
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0106.puz" target="_blank"> Decemberember 01, 2006 </a>
 
@@ -7746,7 +7756,7 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec07_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2007
+### 2007
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0107.puz" target="_blank"> Decemberember 01, 2007 </a>
 
@@ -9306,7 +9316,7 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec08_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2008
+### 2008
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0108.puz" target="_blank"> Decemberember 01, 2008 </a>
 
@@ -10076,7 +10086,7 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec09_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2009
+### 2009
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0109.puz" target="_blank"> Decemberember 01, 2009 </a>
 
@@ -10836,7 +10846,7 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec10_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2010
+### 2010
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0110.puz" target="_blank"> Decemberember 01, 2010 </a>
 
@@ -11594,7 +11604,7 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Apr11_sp.puz" target="_blank"> Bonus </a>
 
-<tr><td colspan=5>2011
+### 2011
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Apr0111.puz" target="_blank"> April 01, 2011 </a>
 
