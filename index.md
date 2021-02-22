@@ -2563,7 +2563,6 @@
 </tr><tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec03_sp.puz" target="_blank"> Bonus </a></td></tr>
 </table>
 
-
 ### 2003 
  
  <table><tr>
