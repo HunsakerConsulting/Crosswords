@@ -97,7 +97,7 @@
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Oct2496.puz" target="_blank"> October 24, 1996</a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Oct2396.puz" target="_blank"> October 23, 1996</a></td></tr>
 </table><table><caption>1997</caption>
-<tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3197.puz" target="_blank"> December 31, 1997 </a></td>
+<tr>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3097.puz" target="_blank"> December 30, 1997 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2997.puz" target="_blank"> December 29, 1997 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2897.puz" target="_blank"> December 28, 1997 </a></td>
