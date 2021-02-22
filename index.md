@@ -1,5 +1,5 @@
-# AccessibleCrosswordPuzzles
-## NewYorkTimes
+# Accessible Crossword Puzzles
+## New York Times
 
 ### 1996
 
