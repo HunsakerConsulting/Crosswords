@@ -2530,7 +2530,7 @@
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan2602.puz" target="_blank"> January 26, 2002 </a></td>  
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan2702.puz" target="_blank"> January 27, 2002 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan2802.puz" target="_blank"> January 28, 2002 </a></td>
-</tr><td> <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan2902.puz" target="_blank"> January 29, 2002 </a></td>  
+</tr><td> <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan2902.puz" target="_blank"> January 29, 2002 </a></td>  
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan3002.puz" target="_blank"> January 30, 2002 </a></td> 
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan3102.puz" target="_blank"> January 31, 2002 </a></td> 
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec03_sp.puz" target="_blank"> Bonus </a></td></tr>
