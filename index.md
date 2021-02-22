@@ -100,6 +100,7 @@
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Oct2496.puz" target="_blank"> October 24, 1996</a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Oct2396.puz" target="_blank"> October 23, 1996</a></td></tr>
 </table>
+
 ### 1997 
  
  <table>
@@ -625,6 +626,7 @@
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan0197.puz" target="_blank"> January 01, 1997 </a></td>
 </tr>
 </table>
+
 ### 1998 
  
  <table>
@@ -1025,6 +1027,7 @@
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan0198.puz" target="_blank"> January 01, 1998 </a></td>
 </tr><tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/aol0198.puz" target="_blank"> Bonus</a></td></tr>
 </table>
+
 ### 1999 
  
  <table><tr>
@@ -1430,6 +1433,7 @@
 </tr><tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan0199.puz" target="_blank"> January 01, 1999 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/aol0199.puz" target="_blank"> Bonus</a></td></tr>
 </table>
+
 ### 2000 
  
  <table><tr>
@@ -1829,6 +1833,7 @@
 </tr><tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan0100.puz" target="_blank"> January 01, 2000 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan00_sp.puz" target="_blank"> Bonus </a></td></tr>
 </table>
+
 ### 2001 
  
  <table><tr>
@@ -2179,6 +2184,7 @@
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan3101.puz" target="_blank"> January 31, 2001 </a></td>
 </tr><tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec02_sp.puz" target="_blank"> Bonus </a></td></tr>
 </table>
+
 ### 2002 
  
  <table><tr>
