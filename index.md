@@ -2841,7 +2841,7 @@
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar1603.2.puz" target="_blank"> Bonus </a></td> ,
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar1703.puz" target="_blank"> March 17, 2003 </a></td>  
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar1803.puz" target="_blank"> March 18, 2003 </a></td> 
-</tr><td>2346 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar1903.puz" target="_blank"> March 19, 2003 </a></td>
+</tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar1903.puz" target="_blank"> March 19, 2003 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar2303.puz" target="_blank"> March 23, 2003 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar2403.puz" target="_blank"> March 24, 2003 </a></td>
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar3103.puz" target="_blank"> March 31, 2003 </a></td>
@@ -5984,7 +5984,7 @@
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Apr2811.puz" target="_blank"> April 28, 2011 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Apr2911.puz" target="_blank"> April 29, 2011 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Apr3011.puz" target="_blank"> April 30, 2011 </a></td>
-</tr><td> <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar11_sp.puz" target="_blank"> Bonus </a></td>
+</tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar11_sp.puz" target="_blank"> Bonus </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar0111.puz" target="_blank"> March 01, 2011 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar0211.puz" target="_blank"> March 02, 2011 </a></td>
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Mar0311.puz" target="_blank"> March 03, 2011 </a></td>
