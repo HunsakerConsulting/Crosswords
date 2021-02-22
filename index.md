@@ -2144,7 +2144,7 @@
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1401.puz" target="_blank"> January 14, 2001 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1501.puz" target="_blank"> January 15, 2001 </a></td>  
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1601.puz" target="_blank"> January 16, 2001 </a></td>
-</tr><td><p><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1701.puz" target="_blank"> January 17, 2001 </a></td>
+</tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1701.puz" target="_blank"> January 17, 2001 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1901.puz" target="_blank"> January 19, 2001 </a></td> 
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan2001.puz" target="_blank"> January 20, 2001 </a></td>  
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan2101.puz" target="_blank"> January 21, 2001 </a></td>
