@@ -2530,8 +2530,6 @@
 
 ### 2000
 
-<tr><td colspan=5>2000
-
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3100.puz" target="_blank"> Decemberember 31, 2000 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3000.puz" target="_blank"> Decemberember 30, 2000 </a>
@@ -2590,11 +2588,11 @@
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0400.puz" target="_blank"> Decemberember 04, 2000 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0300.puz" target="_blank"> Decemberember 03, 2000 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0300.puz" target="_blank"> December 03, 2000 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0200.puz" target="_blank"> Decemberember 02, 2000 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0200.puz" target="_blank"> December 02, 2000 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0100.puz" target="_blank"> Decemberember 01, 2000 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0100.puz" target="_blank"> December 01, 2000 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec00_sp.puz" target="_blank"> Bonus </a>
 
@@ -3324,57 +3322,55 @@
 
 ### 2001
 
-<tr><td colspan=5>2001
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0101.puz" target="_blank"> December 01, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0101.puz" target="_blank"> Decemberember 01, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0301.puz" target="_blank"> December 03, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0301.puz" target="_blank"> Decemberember 03, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0601.puz" target="_blank"> December 06, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0601.puz" target="_blank"> Decemberember 06, 2001 </a>
-
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0701.puz" target="_blank"> Decemberember 07, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0701.puz" target="_blank"> December 07, 2001 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0901.2.puz" target="_blank"> Bonus </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1001.puz" target="_blank"> Decemberember 10, 2001 </a> 
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1001.puz" target="_blank"> December 10, 2001 </a> 
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1101.puz" target="_blank"> Decemberember 11, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1101.puz" target="_blank"> December 11, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1201.puz" target="_blank"> Decemberember 12, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1201.puz" target="_blank"> December 12, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1301.puz" target="_blank"> Decemberember 13, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1301.puz" target="_blank"> December 13, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1401.puz" target="_blank"> Decemberember 14, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1401.puz" target="_blank"> December 14, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1501.puz" target="_blank"> Decemberember 15, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1501.puz" target="_blank"> December 15, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1601.puz" target="_blank"> Decemberember 16, 2001 </a> 
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1601.puz" target="_blank"> December 16, 2001 </a> 
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1701.puz" target="_blank"> Decemberember 17, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1701.puz" target="_blank"> December 17, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1901.puz" target="_blank"> Decemberember 19, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1901.puz" target="_blank"> December 19, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2001.puz" target="_blank"> Decemberember 20, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2001.puz" target="_blank"> December 20, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2201.puz" target="_blank"> Decemberember 22, 2001 </a> 
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2201.puz" target="_blank"> December 22, 2001 </a> 
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2301.puz" target="_blank"> Decemberember 23, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2301.puz" target="_blank"> December 23, 2001 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2301.2.puz" target="_blank"> Bonus </a> 
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2401.puz" target="_blank"> Decemberember 24, 2001 </a> 
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2401.puz" target="_blank"> December 24, 2001 </a> 
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2501.puz" target="_blank"> Decemberember 25, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2501.puz" target="_blank"> December 25, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2601.puz" target="_blank"> Decemberember 26, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2601.puz" target="_blank"> December 26, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2701.puz" target="_blank"> Decemberember 27, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2701.puz" target="_blank"> December 27, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2901.puz" target="_blank"> Decemberember 29, 2001 </a>  
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2901.puz" target="_blank"> December 29, 2001 </a>  
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3001.puz" target="_blank"> Decemberember 30, 2001 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3001.puz" target="_blank"> December 30, 2001 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3101.puz" target="_blank"> Decemberember 31, 2001 </a>  
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3101.puz" target="_blank"> December 31, 2001 </a>  
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec01_sp.puz" target="_blank"> Bonus </a>
 
@@ -4020,65 +4016,65 @@
 
 ### 2002
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0102.puz" target="_blank"> Decemberember 01, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0102.puz" target="_blank"> December 01, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0302.puz" target="_blank"> Decemberember 03, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0302.puz" target="_blank"> December 03, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0402.puz" target="_blank"> Decemberember 04, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0402.puz" target="_blank"> December 04, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0502.puz" target="_blank"> Decemberember 05, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0502.puz" target="_blank"> December 05, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0602.puz" target="_blank"> Decemberember 06, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0602.puz" target="_blank"> December 06, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0702.puz" target="_blank"> Decemberember 07, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0702.puz" target="_blank"> December 07, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0802.puz" target="_blank"> Decemberember 08, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0802.puz" target="_blank"> December 08, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0902.puz" target="_blank"> Decemberember 09, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0902.puz" target="_blank"> December 09, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1002.puz" target="_blank"> Decemberember 10, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1002.puz" target="_blank"> December 10, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1102.puz" target="_blank"> Decemberember 11, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1102.puz" target="_blank"> December 11, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1202.puz" target="_blank"> Decemberember 12, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1202.puz" target="_blank"> December 12, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1302.puz" target="_blank"> Decemberember 13, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1302.puz" target="_blank"> December 13, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1402.puz" target="_blank"> Decemberember 14, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1402.puz" target="_blank"> December 14, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1502.puz" target="_blank"> Decemberember 15, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1502.puz" target="_blank"> December 15, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1602.puz" target="_blank"> Decemberember 16, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1602.puz" target="_blank"> December 16, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1702.puz" target="_blank"> Decemberember 17, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1702.puz" target="_blank"> December 17, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1802.puz" target="_blank"> Decemberember 18, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1802.puz" target="_blank"> December 18, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1902.puz" target="_blank"> Decemberember 19, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1902.puz" target="_blank"> December 19, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2002.puz" target="_blank"> Decemberember 20, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2002.puz" target="_blank"> December 20, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2102.puz" target="_blank"> Decemberember 21, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2102.puz" target="_blank"> December 21, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2202.puz" target="_blank"> Decemberember 22, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2202.puz" target="_blank"> December 22, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2302.puz" target="_blank"> Decemberember 23, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2302.puz" target="_blank"> December 23, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2402.puz" target="_blank"> Decemberember 24, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2402.puz" target="_blank"> December 24, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2502.puz" target="_blank"> Decemberember 25, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2502.puz" target="_blank"> December 25, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2602.puz" target="_blank"> Decemberember 26, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2602.puz" target="_blank"> December 26, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2702.puz" target="_blank"> Decemberember 27, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2702.puz" target="_blank"> December 27, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2802.puz" target="_blank"> Decemberember 28, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2802.puz" target="_blank"> December 28, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2902.puz" target="_blank"> Decemberember 29, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2902.puz" target="_blank"> December 29, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3002.puz" target="_blank"> Decemberember 30, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3002.puz" target="_blank"> December 30, 2002 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3102.puz" target="_blank"> Decemberember 31, 2002 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3102.puz" target="_blank"> December 31, 2002 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Nov02_sp.puz" target="_blank"> Bonus </a>
 
@@ -4768,67 +4764,67 @@
 
 ### 2003
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0103.puz" target="_blank"> Decemberember 01, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0103.puz" target="_blank"> December 01, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0203.puz" target="_blank"> Decemberember 02, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0203.puz" target="_blank"> December 02, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0303.puz" target="_blank"> Decemberember 03, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0303.puz" target="_blank"> December 03, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0403.puz" target="_blank"> Decemberember 04, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0403.puz" target="_blank"> December 04, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0503.puz" target="_blank"> Decemberember 05, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0503.puz" target="_blank"> December 05, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0603.puz" target="_blank"> Decemberember 06, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0603.puz" target="_blank"> December 06, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0703.puz" target="_blank"> Decemberember 07, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0703.puz" target="_blank"> December 07, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0803.puz" target="_blank"> Decemberember 08, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0803.puz" target="_blank"> December 08, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0903.puz" target="_blank"> Decemberember 09, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0903.puz" target="_blank"> December 09, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1003.puz" target="_blank"> Decemberember 10, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1003.puz" target="_blank"> December 10, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1103.puz" target="_blank"> Decemberember 11, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1103.puz" target="_blank"> December 11, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1203.puz" target="_blank"> Decemberember 12, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1203.puz" target="_blank"> December 12, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1303.puz" target="_blank"> Decemberember 13, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1303.puz" target="_blank"> December 13, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1403.puz" target="_blank"> Decemberember 14, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1403.puz" target="_blank"> December 14, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1503.puz" target="_blank"> Decemberember 15, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1503.puz" target="_blank"> December 15, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1603.puz" target="_blank"> Decemberember 16, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1603.puz" target="_blank"> December 16, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1703.puz" target="_blank"> Decemberember 17, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1703.puz" target="_blank"> December 17, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1803.puz" target="_blank"> Decemberember 18, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1803.puz" target="_blank"> December 18, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1903.puz" target="_blank"> Decemberember 19, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1903.puz" target="_blank"> December 19, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2003.puz" target="_blank"> Decemberember 20, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2003.puz" target="_blank"> December 20, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2103.puz" target="_blank"> Decemberember 21, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2103.puz" target="_blank"> December 21, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2203.puz" target="_blank"> Decemberember 22, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2203.puz" target="_blank"> December 22, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2303.puz" target="_blank"> Decemberember 23, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2303.puz" target="_blank"> December 23, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2403.puz" target="_blank"> Decemberember 24, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2403.puz" target="_blank"> December 24, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2503.puz" target="_blank"> Decemberember 25, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2503.puz" target="_blank"> December 25, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2603.puz" target="_blank"> Decemberember 26, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2603.puz" target="_blank"> December 26, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2703.puz" target="_blank"> Decemberember 27, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2703.puz" target="_blank"> December 27, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2803.puz" target="_blank"> Decemberember 28, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2803.puz" target="_blank"> December 28, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2903.puz" target="_blank"> Decemberember 29, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2903.puz" target="_blank"> December 29, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3003.puz" target="_blank"> Decemberember 30, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3003.puz" target="_blank"> December 30, 2003 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3103.puz" target="_blank"> Decemberember 31, 2003 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3103.puz" target="_blank"> December 31, 2003 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Nov03_sp.puz" target="_blank"> Bonus </a>
 
@@ -5450,67 +5446,67 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 ### 2004
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0104.puz" target="_blank"> Decemberember 01, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0104.puz" target="_blank"> December 01, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0204.puz" target="_blank"> Decemberember 02, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0204.puz" target="_blank"> December 02, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0304.puz" target="_blank"> Decemberember 03, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0304.puz" target="_blank"> December 03, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0404.puz" target="_blank"> Decemberember 04, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0404.puz" target="_blank"> December 04, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0504.puz" target="_blank"> Decemberember 05, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0504.puz" target="_blank"> December 05, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0604.puz" target="_blank"> Decemberember 06, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0604.puz" target="_blank"> December 06, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0704.puz" target="_blank"> Decemberember 07, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0704.puz" target="_blank"> December 07, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0804.puz" target="_blank"> Decemberember 08, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0804.puz" target="_blank"> December 08, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0904.puz" target="_blank"> Decemberember 09, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0904.puz" target="_blank"> December 09, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1004.puz" target="_blank"> Decemberember 10, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1004.puz" target="_blank"> December 10, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1104.puz" target="_blank"> Decemberember 11, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1104.puz" target="_blank"> December 11, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1204.puz" target="_blank"> Decemberember 12, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1204.puz" target="_blank"> December 12, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1304.puz" target="_blank"> Decemberember 13, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1304.puz" target="_blank"> December 13, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1404.puz" target="_blank"> Decemberember 14, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1404.puz" target="_blank"> December 14, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1504.puz" target="_blank"> Decemberember 15, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1504.puz" target="_blank"> December 15, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1604.puz" target="_blank"> Decemberember 16, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1604.puz" target="_blank"> December 16, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1704.puz" target="_blank"> Decemberember 17, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1704.puz" target="_blank"> December 17, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1804.puz" target="_blank"> Decemberember 18, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1804.puz" target="_blank"> December 18, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1904.puz" target="_blank"> Decemberember 19, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1904.puz" target="_blank"> December 19, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2004.puz" target="_blank"> Decemberember 20, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2004.puz" target="_blank"> December 20, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2104.puz" target="_blank"> Decemberember 21, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2104.puz" target="_blank"> December 21, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2204.puz" target="_blank"> Decemberember 22, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2204.puz" target="_blank"> December 22, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2304.puz" target="_blank"> Decemberember 23, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2304.puz" target="_blank"> December 23, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2404.puz" target="_blank"> Decemberember 24, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2404.puz" target="_blank"> December 24, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2504.puz" target="_blank"> Decemberember 25, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2504.puz" target="_blank"> December 25, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2604.puz" target="_blank"> Decemberember 26, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2604.puz" target="_blank"> December 26, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2704.puz" target="_blank"> Decemberember 27, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2704.puz" target="_blank"> December 27, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2804.puz" target="_blank"> Decemberember 28, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2804.puz" target="_blank"> December 28, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2904.puz" target="_blank"> Decemberember 29, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2904.puz" target="_blank"> December 29, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3004.puz" target="_blank"> Decemberember 30, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3004.puz" target="_blank"> December 30, 2004 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3104.puz" target="_blank"> Decemberember 31, 2004 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3104.puz" target="_blank"> December 31, 2004 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Nov04_sp.puz" target="_blank"> Bonus </a>
 
@@ -6214,67 +6210,67 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 ### 2005
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0105.puz" target="_blank"> Decemberember 01, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0105.puz" target="_blank"> December 01, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0205.puz" target="_blank"> Decemberember 02, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0205.puz" target="_blank"> December 02, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0305.puz" target="_blank"> Decemberember 03, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0305.puz" target="_blank"> December 03, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0405.puz" target="_blank"> Decemberember 04, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0405.puz" target="_blank"> December 04, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0505.puz" target="_blank"> Decemberember 05, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0505.puz" target="_blank"> December 05, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0605.puz" target="_blank"> Decemberember 06, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0605.puz" target="_blank"> December 06, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0705.puz" target="_blank"> Decemberember 07, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0705.puz" target="_blank"> December 07, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0805.puz" target="_blank"> Decemberember 08, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0805.puz" target="_blank"> December 08, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0905.puz" target="_blank"> Decemberember 09, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0905.puz" target="_blank"> December 09, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1005.puz" target="_blank"> Decemberember 10, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1005.puz" target="_blank"> December 10, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1105.puz" target="_blank"> Decemberember 11, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1105.puz" target="_blank"> December 11, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1205.puz" target="_blank"> Decemberember 12, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1205.puz" target="_blank"> December 12, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1305.puz" target="_blank"> Decemberember 13, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1305.puz" target="_blank"> December 13, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1405.puz" target="_blank"> Decemberember 14, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1405.puz" target="_blank"> December 14, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1505.puz" target="_blank"> Decemberember 15, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1505.puz" target="_blank"> December 15, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1605.puz" target="_blank"> Decemberember 16, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1605.puz" target="_blank"> December 16, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1705.puz" target="_blank"> Decemberember 17, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1705.puz" target="_blank"> December 17, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1805.puz" target="_blank"> Decemberember 18, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1805.puz" target="_blank"> December 18, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1905.puz" target="_blank"> Decemberember 19, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1905.puz" target="_blank"> December 19, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2005.puz" target="_blank"> Decemberember 20, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2005.puz" target="_blank"> December 20, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2105.puz" target="_blank"> Decemberember 21, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2105.puz" target="_blank"> December 21, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2205.puz" target="_blank"> Decemberember 22, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2205.puz" target="_blank"> December 22, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2305.puz" target="_blank"> Decemberember 23, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2305.puz" target="_blank"> December 23, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2405.puz" target="_blank"> Decemberember 24, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2405.puz" target="_blank"> December 24, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2505.puz" target="_blank"> Decemberember 25, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2505.puz" target="_blank"> December 25, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2605.puz" target="_blank"> Decemberember 26, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2605.puz" target="_blank"> December 26, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2705.puz" target="_blank"> Decemberember 27, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2705.puz" target="_blank"> December 27, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2805.puz" target="_blank"> Decemberember 28, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2805.puz" target="_blank"> December 28, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2905.puz" target="_blank"> Decemberember 29, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2905.puz" target="_blank"> December 29, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3005.puz" target="_blank"> Decemberember 30, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3005.puz" target="_blank"> December 30, 2005 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3105.puz" target="_blank"> Decemberember 31, 2005 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3105.puz" target="_blank"> December 31, 2005 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=https://query.nytimes.com/premium/xword/Nov05_sp.puz" target="_blank"> Bonus </a>
 
@@ -6982,67 +6978,67 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 ### 2006
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0106.puz" target="_blank"> Decemberember 01, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0106.puz" target="_blank"> December 01, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0206.puz" target="_blank"> Decemberember 02, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0206.puz" target="_blank"> December 02, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0306.puz" target="_blank"> Decemberember 03, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0306.puz" target="_blank"> December 03, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0406.puz" target="_blank"> Decemberember 04, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0406.puz" target="_blank"> December 04, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0506.puz" target="_blank"> Decemberember 05, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0506.puz" target="_blank"> December 05, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0606.puz" target="_blank"> Decemberember 06, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0606.puz" target="_blank"> December 06, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0706.puz" target="_blank"> Decemberember 07, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0706.puz" target="_blank"> December 07, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0806.puz" target="_blank"> Decemberember 08, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0806.puz" target="_blank"> December 08, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0906.puz" target="_blank"> Decemberember 09, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0906.puz" target="_blank"> December 09, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1006.puz" target="_blank"> Decemberember 10, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1006.puz" target="_blank"> December 10, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1106.puz" target="_blank"> Decemberember 11, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1106.puz" target="_blank"> December 11, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1206.puz" target="_blank"> Decemberember 12, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1206.puz" target="_blank"> December 12, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1306.puz" target="_blank"> Decemberember 13, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1306.puz" target="_blank"> December 13, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1406.puz" target="_blank"> Decemberember 14, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1406.puz" target="_blank"> December 14, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1506.puz" target="_blank"> Decemberember 15, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1506.puz" target="_blank"> December 15, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1606.puz" target="_blank"> Decemberember 16, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1606.puz" target="_blank"> December 16, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1706.puz" target="_blank"> Decemberember 17, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1706.puz" target="_blank"> December 17, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1806.puz" target="_blank"> Decemberember 18, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1806.puz" target="_blank"> December 18, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1906.puz" target="_blank"> Decemberember 19, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1906.puz" target="_blank"> December 19, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2006.puz" target="_blank"> Decemberember 20, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2006.puz" target="_blank"> December 20, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2106.puz" target="_blank"> Decemberember 21, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2106.puz" target="_blank"> December 21, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2206.puz" target="_blank"> Decemberember 22, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2206.puz" target="_blank"> December 22, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2306.puz" target="_blank"> Decemberember 23, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2306.puz" target="_blank"> December 23, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2406.puz" target="_blank"> Decemberember 24, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2406.puz" target="_blank"> December 24, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2506.puz" target="_blank"> Decemberember 25, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2506.puz" target="_blank"> December 25, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2606.puz" target="_blank"> Decemberember 26, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2606.puz" target="_blank"> December 26, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2706.puz" target="_blank"> Decemberember 27, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2706.puz" target="_blank"> December 27, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2806.puz" target="_blank"> Decemberember 28, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2806.puz" target="_blank"> December 28, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2906.puz" target="_blank"> Decemberember 29, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2906.puz" target="_blank"> December 29, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3006.puz" target="_blank"> Decemberember 30, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3006.puz" target="_blank"> December 30, 2006 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3106.puz" target="_blank"> Decemberember 31, 2006 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3106.puz" target="_blank"> December 31, 2006 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Nov06_sp.puz" target="_blank"> Bonus </a>
 
@@ -7758,71 +7754,71 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 ### 2007
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0107.puz" target="_blank"> Decemberember 01, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0107.puz" target="_blank"> December 01, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0207.puz" target="_blank"> Decemberember 02, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0207.puz" target="_blank"> December 02, 2007 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0207.2.puz" target="_blank"> Bonus </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0307.puz" target="_blank"> Decemberember 03, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0307.puz" target="_blank"> December 03, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0407.puz" target="_blank"> Decemberember 04, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0407.puz" target="_blank"> December 04, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0507.puz" target="_blank"> Decemberember 05, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0507.puz" target="_blank"> December 05, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0607.puz" target="_blank"> Decemberember 06, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0607.puz" target="_blank"> December 06, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0707.puz" target="_blank"> Decemberember 07, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0707.puz" target="_blank"> December 07, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0807.puz" target="_blank"> Decemberember 08, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0807.puz" target="_blank"> December 08, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0907.puz" target="_blank"> Decemberember 09, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0907.puz" target="_blank"> December 09, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1007.puz" target="_blank"> Decemberember 10, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1007.puz" target="_blank"> December 10, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1107.puz" target="_blank"> Decemberember 11, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1107.puz" target="_blank"> December 11, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1207.puz" target="_blank"> Decemberember 12, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1207.puz" target="_blank"> December 12, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1307.puz" target="_blank"> Decemberember 13, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1307.puz" target="_blank"> December 13, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1407.puz" target="_blank"> Decemberember 14, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1407.puz" target="_blank"> December 14, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1507.puz" target="_blank"> Decemberember 15, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1507.puz" target="_blank"> December 15, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1607.puz" target="_blank"> Decemberember 16, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1607.puz" target="_blank"> December 16, 2007 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=https://www.nytimes.com/premium/xword/Dec1607.2.puz" target="_blank"> Bonus </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1707.puz" target="_blank"> Decemberember 17, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1707.puz" target="_blank"> December 17, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1807.puz" target="_blank"> Decemberember 18, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1807.puz" target="_blank"> December 18, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1907.puz" target="_blank"> Decemberember 19, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1907.puz" target="_blank"> December 19, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2007.puz" target="_blank"> Decemberember 20, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2007.puz" target="_blank"> December 20, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2107.puz" target="_blank"> Decemberember 21, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2107.puz" target="_blank"> December 21, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2207.puz" target="_blank"> Decemberember 22, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2207.puz" target="_blank"> December 22, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2307.puz" target="_blank"> Decemberember 23, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2307.puz" target="_blank"> December 23, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2407.puz" target="_blank"> Decemberember 24, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2407.puz" target="_blank"> December 24, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2507.puz" target="_blank"> Decemberember 25, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2507.puz" target="_blank"> December 25, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2607.puz" target="_blank"> Decemberember 26, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2607.puz" target="_blank"> December 26, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2707.puz" target="_blank"> Decemberember 27, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2707.puz" target="_blank"> December 27, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2807.puz" target="_blank"> Decemberember 28, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2807.puz" target="_blank"> December 28, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2907.puz" target="_blank"> Decemberember 29, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2907.puz" target="_blank"> December 29, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3007.puz" target="_blank"> Decemberember 30, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3007.puz" target="_blank"> December 30, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3107.puz" target="_blank"> Decemberember 31, 2007 </a>  
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3107.puz" target="_blank"> December 31, 2007 </a>  
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Nov07_sp.puz" target="_blank"> Bonus </a>
 
@@ -8530,71 +8526,71 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec07_sp.puz" target="_blank"> Bonus </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0107.puz" target="_blank"> Decemberember 01, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0107.puz" target="_blank"> December 01, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0207.puz" target="_blank"> Decemberember 02, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0207.puz" target="_blank"> December 02, 2007 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0207.2.puz" target="_blank"> Bonus </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0307.puz" target="_blank"> Decemberember 03, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0307.puz" target="_blank"> December 03, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0407.puz" target="_blank"> Decemberember 04, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0407.puz" target="_blank"> December 04, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0507.puz" target="_blank"> Decemberember 05, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0507.puz" target="_blank"> December 05, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0607.puz" target="_blank"> Decemberember 06, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0607.puz" target="_blank"> December 06, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0707.puz" target="_blank"> Decemberember 07, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0707.puz" target="_blank"> December 07, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0807.puz" target="_blank"> Decemberember 08, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0807.puz" target="_blank"> December 08, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0907.puz" target="_blank"> Decemberember 09, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0907.puz" target="_blank"> December 09, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1007.puz" target="_blank"> Decemberember 10, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1007.puz" target="_blank"> December 10, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1107.puz" target="_blank"> Decemberember 11, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1107.puz" target="_blank"> December 11, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1207.puz" target="_blank"> Decemberember 12, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1207.puz" target="_blank"> December 12, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1307.puz" target="_blank"> Decemberember 13, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1307.puz" target="_blank"> December 13, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1407.puz" target="_blank"> Decemberember 14, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1407.puz" target="_blank"> December 14, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1507.puz" target="_blank"> Decemberember 15, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1507.puz" target="_blank"> December 15, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1607.puz" target="_blank"> Decemberember 16, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1607.puz" target="_blank"> December 16, 2007 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=https://www.nytimes.com/premium/xword/Dec1607.2.puz" target="_blank"> Bonus </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1707.puz" target="_blank"> Decemberember 17, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1707.puz" target="_blank"> December 17, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1807.puz" target="_blank"> Decemberember 18, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1807.puz" target="_blank"> December 18, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1907.puz" target="_blank"> Decemberember 19, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1907.puz" target="_blank"> December 19, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2007.puz" target="_blank"> Decemberember 20, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2007.puz" target="_blank"> December 20, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2107.puz" target="_blank"> Decemberember 21, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2107.puz" target="_blank"> December 21, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2207.puz" target="_blank"> Decemberember 22, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2207.puz" target="_blank"> December 22, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2307.puz" target="_blank"> Decemberember 23, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2307.puz" target="_blank"> December 23, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2407.puz" target="_blank"> Decemberember 24, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2407.puz" target="_blank"> December 24, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2507.puz" target="_blank"> Decemberember 25, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2507.puz" target="_blank"> December 25, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2607.puz" target="_blank"> Decemberember 26, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2607.puz" target="_blank"> December 26, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2707.puz" target="_blank"> Decemberember 27, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2707.puz" target="_blank"> December 27, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2807.puz" target="_blank"> Decemberember 28, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2807.puz" target="_blank"> December 28, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2907.puz" target="_blank"> Decemberember 29, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2907.puz" target="_blank"> December 29, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3007.puz" target="_blank"> Decemberember 30, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3007.puz" target="_blank"> December 30, 2007 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3107.puz" target="_blank"> Decemberember 31, 2007 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3107.puz" target="_blank"> December 31, 2007 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Nov07_sp.puz" target="_blank"> Bonus </a> 
 
@@ -9318,67 +9314,67 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 ### 2008
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0108.puz" target="_blank"> Decemberember 01, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0108.puz" target="_blank"> December 01, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0208.puz" target="_blank"> Decemberember 02, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0208.puz" target="_blank"> December 02, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0308.puz" target="_blank"> Decemberember 03, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0308.puz" target="_blank"> December 03, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0408.puz" target="_blank"> Decemberember 04, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0408.puz" target="_blank"> December 04, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0508.puz" target="_blank"> Decemberember 05, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0508.puz" target="_blank"> December 05, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0608.puz" target="_blank"> Decemberember 06, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0608.puz" target="_blank"> December 06, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0708.puz" target="_blank"> Decemberember 07, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0708.puz" target="_blank"> December 07, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0808.puz" target="_blank"> Decemberember 08, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0808.puz" target="_blank"> December 08, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0908.puz" target="_blank"> Decemberember 09, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0908.puz" target="_blank"> December 09, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1008.puz" target="_blank"> Decemberember 10, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1008.puz" target="_blank"> December 10, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1108.puz" target="_blank"> Decemberember 11, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1108.puz" target="_blank"> December 11, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1208.puz" target="_blank"> Decemberember 12, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1208.puz" target="_blank"> December 12, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1308.puz" target="_blank"> Decemberember 13, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1308.puz" target="_blank"> December 13, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1408.puz" target="_blank"> Decemberember 14, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1408.puz" target="_blank"> December 14, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1508.puz" target="_blank"> Decemberember 15, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1508.puz" target="_blank"> December 15, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1608.puz" target="_blank"> Decemberember 16, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1608.puz" target="_blank"> December 16, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1708.puz" target="_blank"> Decemberember 17, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1708.puz" target="_blank"> December 17, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1808.puz" target="_blank"> Decemberember 18, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1808.puz" target="_blank"> December 18, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1908.puz" target="_blank"> Decemberember 19, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1908.puz" target="_blank"> December 19, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2008.puz" target="_blank"> Decemberember 20, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2008.puz" target="_blank"> December 20, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2108.puz" target="_blank"> Decemberember 21, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2108.puz" target="_blank"> December 21, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2208.puz" target="_blank"> Decemberember 22, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2208.puz" target="_blank"> December 22, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2308.puz" target="_blank"> Decemberember 23, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2308.puz" target="_blank"> December 23, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2408.puz" target="_blank"> Decemberember 24, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2408.puz" target="_blank"> December 24, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2508.puz" target="_blank"> Decemberember 25, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2508.puz" target="_blank"> December 25, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2608.puz" target="_blank"> Decemberember 26, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2608.puz" target="_blank"> December 26, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2708.puz" target="_blank"> Decemberember 27, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2708.puz" target="_blank"> December 27, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2808.puz" target="_blank"> Decemberember 28, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2808.puz" target="_blank"> December 28, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2908.puz" target="_blank"> Decemberember 29, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2908.puz" target="_blank"> December 29, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3008.puz" target="_blank"> Decemberember 30, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3008.puz" target="_blank"> December 30, 2008 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3108.puz" target="_blank"> Decemberember 31, 2008 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3108.puz" target="_blank"> December 31, 2008 </a>
 
  <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Nov08_sp.puz" target="_blank"> Bonus </a>
 
@@ -10088,67 +10084,67 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 ### 2009
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0109.puz" target="_blank"> Decemberember 01, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0109.puz" target="_blank"> December 01, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0209.puz" target="_blank"> Decemberember 02, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0209.puz" target="_blank"> December 02, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0309.puz" target="_blank"> Decemberember 03, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0309.puz" target="_blank"> December 03, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0409.puz" target="_blank"> Decemberember 04, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0409.puz" target="_blank"> December 04, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0509.puz" target="_blank"> Decemberember 05, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0509.puz" target="_blank"> December 05, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0609.puz" target="_blank"> Decemberember 06, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0609.puz" target="_blank"> December 06, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0709.puz" target="_blank"> Decemberember 07, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0709.puz" target="_blank"> December 07, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0809.puz" target="_blank"> Decemberember 08, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0809.puz" target="_blank"> December 08, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0909.puz" target="_blank"> Decemberember 09, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0909.puz" target="_blank"> December 09, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1009.puz" target="_blank"> Decemberember 10, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1009.puz" target="_blank"> December 10, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1109.puz" target="_blank"> Decemberember 11, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1109.puz" target="_blank"> December 11, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1209.puz" target="_blank"> Decemberember 12, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1209.puz" target="_blank"> December 12, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1309.puz" target="_blank"> Decemberember 13, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1309.puz" target="_blank"> December 13, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1409.puz" target="_blank"> Decemberember 14, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1409.puz" target="_blank"> December 14, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1509.puz" target="_blank"> Decemberember 15, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1509.puz" target="_blank"> December 15, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1609.puz" target="_blank"> Decemberember 16, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1609.puz" target="_blank"> December 16, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1709.puz" target="_blank"> Decemberember 17, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1709.puz" target="_blank"> December 17, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1809.puz" target="_blank"> Decemberember 18, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1809.puz" target="_blank"> December 18, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1909.puz" target="_blank"> Decemberember 19, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1909.puz" target="_blank"> December 19, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2009.puz" target="_blank"> Decemberember 20, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2009.puz" target="_blank"> December 20, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2109.puz" target="_blank"> Decemberember 21, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2109.puz" target="_blank"> December 21, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2209.puz" target="_blank"> Decemberember 22, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2209.puz" target="_blank"> December 22, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2309.puz" target="_blank"> Decemberember 23, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2309.puz" target="_blank"> December 23, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2409.puz" target="_blank"> Decemberember 24, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2409.puz" target="_blank"> December 24, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2509.puz" target="_blank"> Decemberember 25, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2509.puz" target="_blank"> December 25, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2609.puz" target="_blank"> Decemberember 26, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2609.puz" target="_blank"> December 26, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2709.puz" target="_blank"> Decemberember 27, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2709.puz" target="_blank"> December 27, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2809.puz" target="_blank"> Decemberember 28, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2809.puz" target="_blank"> December 28, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2909.puz" target="_blank"> Decemberember 29, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2909.puz" target="_blank"> December 29, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3009.puz" target="_blank"> Decemberember 30, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3009.puz" target="_blank"> December 30, 2009 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3109.puz" target="_blank"> Decemberember 31, 2009 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3109.puz" target="_blank"> December 31, 2009 </a>
 
  <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Nov09_sp.puz" target="_blank"> Bonus </a>
 
@@ -10848,67 +10844,67 @@ Key: 4546 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytim
 
 ### 2010
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0110.puz" target="_blank"> Decemberember 01, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0110.puz" target="_blank"> December 01, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0210.puz" target="_blank"> Decemberember 02, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0210.puz" target="_blank"> December 02, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0310.puz" target="_blank"> Decemberember 03, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0310.puz" target="_blank"> December 03, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0410.puz" target="_blank"> Decemberember 04, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0410.puz" target="_blank"> December 04, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0510.puz" target="_blank"> Decemberember 05, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0510.puz" target="_blank"> December 05, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0610.puz" target="_blank"> Decemberember 06, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0610.puz" target="_blank"> December 06, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0710.puz" target="_blank"> Decemberember 07, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0710.puz" target="_blank"> December 07, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0810.puz" target="_blank"> Decemberember 08, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0810.puz" target="_blank"> December 08, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0910.puz" target="_blank"> Decemberember 09, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec0910.puz" target="_blank"> December 09, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1010.puz" target="_blank"> Decemberember 10, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1010.puz" target="_blank"> December 10, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1110.puz" target="_blank"> Decemberember 11, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1110.puz" target="_blank"> December 11, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1210.puz" target="_blank"> Decemberember 12, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1210.puz" target="_blank"> December 12, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1310.puz" target="_blank"> Decemberember 13, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1310.puz" target="_blank"> December 13, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1410.puz" target="_blank"> Decemberember 14, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1410.puz" target="_blank"> December 14, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1510.puz" target="_blank"> Decemberember 15, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1510.puz" target="_blank"> December 15, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1610.puz" target="_blank"> Decemberember 16, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1610.puz" target="_blank"> December 16, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1710.puz" target="_blank"> Decemberember 17, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1710.puz" target="_blank"> December 17, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1810.puz" target="_blank"> Decemberember 18, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1810.puz" target="_blank"> December 18, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1910.puz" target="_blank"> Decemberember 19, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec1910.puz" target="_blank"> December 19, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2010.puz" target="_blank"> Decemberember 20, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2010.puz" target="_blank"> December 20, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2110.puz" target="_blank"> Decemberember 21, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2110.puz" target="_blank"> December 21, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2210.puz" target="_blank"> Decemberember 22, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2210.puz" target="_blank"> December 22, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2310.puz" target="_blank"> Decemberember 23, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2310.puz" target="_blank"> December 23, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2410.puz" target="_blank"> Decemberember 24, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2410.puz" target="_blank"> December 24, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2510.puz" target="_blank"> Decemberember 25, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2510.puz" target="_blank"> December 25, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2610.puz" target="_blank"> Decemberember 26, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2610.puz" target="_blank"> December 26, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2710.puz" target="_blank"> Decemberember 27, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2710.puz" target="_blank"> December 27, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2810.puz" target="_blank"> Decemberember 28, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2810.puz" target="_blank"> December 28, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2910.puz" target="_blank"> Decemberember 29, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec2910.puz" target="_blank"> December 29, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3010.puz" target="_blank"> Decemberember 30, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3010.puz" target="_blank"> December 30, 2010 </a>
 
-<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3110.puz" target="_blank"> Decemberember 31, 2010 </a>
+<a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Dec3110.puz" target="_blank"> December 31, 2010 </a>
 
 <a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Nov10_sp.puz" target="_blank"> Bonus </a>
 
