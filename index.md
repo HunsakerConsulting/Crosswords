@@ -2518,7 +2518,7 @@
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1402.puz" target="_blank"> January 14, 2002 </a></td> 
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1502.puz" target="_blank"> January 15, 2002 </a></td>  
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1602.puz" target="_blank"> January 16, 2002 </a></td>
-</tr><td><p><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1702.puz" target="_blank"> January 17, 2002 </a></td>  
+</tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1702.puz" target="_blank"> January 17, 2002 </a></td>  
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1802.puz" target="_blank"> January 18, 2002 </a></td> 
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan1902.puz" target="_blank"> January 19, 2002 </a></td> 
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Jan2002.puz" target="_blank"> January 20, 2002 </a></td> 
@@ -3754,7 +3754,7 @@
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Sep1306.puz" target="_blank"> September 13, 2006 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Sep1406.puz" target="_blank"> September 14, 2006 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Sep1506.puz" target="_blank"> September 15, 2006 </a></td>
-</tr><td><p><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Sep1606.puz" target="_blank"> September 16, 2006 </a></td>
+</tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Sep1606.puz" target="_blank"> September 16, 2006 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Sep1706.puz" target="_blank"> September 17, 2006 </a></td>
 <td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Sep1806.puz" target="_blank"> September 18, 2006 </a></td>
 </tr><td><a href="http://crossword.aphtech.org/?openWithUrl=http://select.nytimes.com/premium/xword/Sep1906.puz" target="_blank"> September 19, 2006 </a></td>
